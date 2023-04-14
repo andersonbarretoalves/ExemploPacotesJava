@@ -1,7 +1,5 @@
 package lanchonete.atendimento.cozinha;
 
-import org.omg.CORBA.PUBLIC_MEMBER;
-
 import lanchonete.atendimento.Atendente;
 
 public class Cozinheiro {
